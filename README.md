@@ -14,7 +14,7 @@ pip install mechanize
 
 pip install bs4 futures
 
-git clone https://github.com/TEAM-KRS/Randomv1
+git clone https://github.com/Alienrazor/Randomv1
 
 cd Randomv1
 
